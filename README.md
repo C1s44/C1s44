@@ -6,7 +6,7 @@
   <tr>
     <td>
     <P>
-        Hai, nama saya C1s44, juga dikenal sebagai Pagestu. Saat ini saya sedang belajar mengembangkan tweak optimasi sistem Android.
+        Hi, my name is C1s44, also known as Pagestu. I am currently learning to develop Android system optimization tweaks.
       </p>
     </td>
   </tr>
