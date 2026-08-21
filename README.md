@@ -3,10 +3,10 @@
 
 # about me
 <table>
-<tr>
-  <td>
+  <tr>
+    <td>
     <P>
-        hi, i'm <strong>al4uu aka almas</strong>, focusing on Android Development, especially on creating custom modifications and tweaking the system.
+        Hai, nama saya C1s44, juga dikenal sebagai Pagestu. Saat ini saya sedang belajar mengembangkan tweak optimasi sistem Android.
       </p>
     </td>
   </tr>
