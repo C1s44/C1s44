@@ -1,8 +1,7 @@
 ## Hi there 👋 I'am C1s44
-<img src=https://github.com/C1s44/C1s44/blob/main/cc617d7d27e51471fdd4546109d82d2d.jpg>
-
-# about me
 <table>
+  <td>
+<img src=https://github.com/C1s44/C1s44/blob/main/cc617d7d27e51471fdd4546109d82d2d.jpg>
   <tr>
     <td>
     <P>
@@ -11,3 +10,8 @@
     </td>
   </tr>
 </table>
+<h2>🌐Media Social</h2>
+<a href="https://www.tiktok.com/@abdygs_?_t=8rY9ox0DbcG&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"></a>
+  <a href="https://t.me/MyNameIsRamadhan"><img src="https://img.shields.io/badge/Telegram-2CA5E?style=social&logo=telegram"></a>
+  <a href="https://youtube.com/@ArchHengkyLab"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+</p>
